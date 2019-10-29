@@ -33,4 +33,4 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly:AssemblyInformationalVersion("TODO! AssemblyInformationalVersion should be set by build script.")]
+[assembly:AssemblyInformationalVersion("1.0.67.fafba0721b968576819c5700dc5087266991ff3e.master.2019-10-26T13:03:33.0000000Z")]
